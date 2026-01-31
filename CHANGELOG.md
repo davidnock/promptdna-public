@@ -7,3 +7,4 @@ All notable changes to PromptDNA will be documented in this file.
 - Enabled prompt remixing and reuse
 - Implemented credit-based rendering system
 - Released creator-first workflows
+- Fixed paywall incorrectly appearing for paid admin users
